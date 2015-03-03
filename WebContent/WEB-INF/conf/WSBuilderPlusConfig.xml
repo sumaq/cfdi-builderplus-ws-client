@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-service>
+<name>Web Services Builder Plus</name>
+<urlServiceCancelarCFDI>http://192.168.0.20:8080/cfdi-builderplus-ws/services/WSBuilderPlus.WSBuilderPlusHttpSoap12Endpoint/</urlServiceCancelarCFDI>
+<user>your.ws.user</user>
+<password>your.ws.pass</password>
+</web-service>
